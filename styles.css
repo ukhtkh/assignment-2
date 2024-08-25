@@ -1,0 +1,32 @@
+body{
+    width:800px;
+    font-family: 'inter', sans-serif;
+    margin:20px auto;
+    background-color: rgb(212, 212, 143);
+}
+
+.images{
+ width:200px;
+ height:200px;
+ display:flex;
+ gap:20px;
+ margin-left: 50px;
+}
+
+.heading{
+    text-align: center;
+    font-size:44px;
+color:rgb(56, 54, 54);
+}
+
+.heading-2{
+    font-size:30px;
+}
+
+.heading-2, .heading-3{
+    color:rgb(58, 57, 57);
+}
+
+.paragraph{
+    font-size:20px;
+}
